@@ -1,0 +1,20 @@
+Time taken for the compilation process:1:37:7
+average cpu utilization : 52.750000000000014 %
+average mem utilization : 30.61945231919293 %
+------------
+Time taken for the compilation process:1:36:50
+average cpu utilization : 47.91500000000001 %
+average mem utilization : 26.24793758579794 %
+------------
+Time taken for the compilation process:1:37:23
+average cpu utilization : 51.80999999999998 %
+average mem utilization : 24.860177606123322 %
+------------
+Time taken for the compilation process:1:38:57
+average cpu utilization : 45.89 %
+average mem utilization : 22.726971005192816 %
+------------
+Time taken for the compilation process:1:33:2
+average cpu utilization : 47.38421052631579 %
+average mem utilization : 23.216109824742162 %
+------------
